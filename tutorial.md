@@ -1,6 +1,6 @@
-# Controllable Disco Lights
+# Disco Lights 2026
 
-## Introduction @showdialog
+## Step 1 @showdialog
 This tutorial shows how to make a controllable 'Disco Lights' project. 
 It is based on the existing example project https://microbit.org/projects/make-it-code-it/disco-lights/
 We will extend this example to allow the style of the disco lights to be controlled from and external web interface.
